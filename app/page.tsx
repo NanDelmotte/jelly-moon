@@ -4,7 +4,7 @@ export default function Home() {
 return (
 <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-purple-900 via-black to-indigo-950 text-purple-200 px-6">
 <h1 className="text-6xl font-extrabold tracking-tight drop-shadow-[0_0_25px_rgba(180,0,255,0.7)]">
-🌙 JellyMoon is aLive and David can make updates
+🌙 JellyMoon is aLive and David can make updates if he wants to
 </h1>
 
   <p className="mt-4 text-xl opacity-90">
